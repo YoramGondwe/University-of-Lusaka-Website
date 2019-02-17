@@ -1,1 +1,1 @@
-# University-of-Zambia-Website
+# University-of-Lusaka-Website
