@@ -52,7 +52,7 @@
     boxCols: 12,
     boxRows: 8,
     animSpeed: 500,
-    pauseTime: 50000,
+    pauseTime: 5000,
     startSlide: 0,
     directionNav: true,
     controlNavThumbs: false,
