@@ -789,7 +789,7 @@ div#preloader {
   height: 100%;
   left: 0;
   margin-right: -15px;
-  padding: 10px;
+  padding: 7px;
   position: absolute;
   top: 0;
   width: 100%;
@@ -1451,6 +1451,19 @@ div#preloader {
   color: #444;
   margin-bottom: 15px;
 }
+
+
+.blog-text h3 a {
+  color: #444;
+  text-decoration: none;
+}
+
+.blog-text h3 {
+  color: #444;
+  margin-bottom: 15px;
+}
+
+
 
 .blog-btn {
   border-bottom: 1px dotted #444;
