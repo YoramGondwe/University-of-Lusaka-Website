@@ -116,7 +116,7 @@ body {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #3EC1D5;
+  background: #006622;
   color: #fff;
   padding: 6px 12px 9px 12px;
   font-size: 16px;
@@ -133,7 +133,7 @@ body {
 }
 
 .back-to-top:focus {
-  background: #3EC1D5;
+  background: #006622;
   color: #fff;
   outline: none;
 }
@@ -175,7 +175,7 @@ div#preloader {
 }
 
 ::selection {
-  background: #3EC1D5;
+  background: #006622;
   text-shadow: none;
 }
 
@@ -592,7 +592,7 @@ div#preloader {
 }
 
 .faq-details h4.check-title a.active, .faq-details a.active span.acc-icons::before {
-  color: #3EC1D5;
+  color: #006622;
 }
 
 .faq-details a.active span.acc-icons::before {
@@ -1541,7 +1541,7 @@ div#preloader {
 }
 
 .single-blog .ready-btn:hover {
-  border: 1px solid #009900;
+  border: 1px solid #006622;
   color: #fff;
 }
 
@@ -1990,8 +1990,8 @@ div#preloader {
 
 .ready-btn:hover {
   color: #fff;
-  background: #009900;
-  border: 1px solid #001a00;
+  background: #006622;
+  border: 1px solid #006622;
   text-decoration: none;
 }
 
@@ -2009,7 +2009,7 @@ div#preloader {
 }
 
 .pst-content p a:hover, .left-blog ul li a:hover {
-  color: #3EC1D5;
+  color: #006622;
 }
 
 .blog-page .single-blog {
