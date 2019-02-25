@@ -1853,6 +1853,13 @@ div#preloader {
 /*  16.Home Page 2  CSS
 /*----------------------------------------*/
 
+.header-bg2 {
+  background: url(../img/vector-blue-breaking-news-tv-background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+  background-attachment: fixed;
+}
 .header-bg {
   background: url(../img/grad.jpg);
   background-repeat: no-repeat;
@@ -2115,7 +2122,7 @@ div#preloader {
 
 .entry-content blockquote {
   background: #fff none repeat scroll 0 0;
-  border-left: 5px solid #3EC1D5;
+  border-left: 5px solid #42414f;
   font-size: 17.5px;
   font-style: italic;
   margin: 0 0 20px 40px;
